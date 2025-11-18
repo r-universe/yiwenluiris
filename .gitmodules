@@ -5,6 +5,3 @@
 [submodule "OrigamiPlot"]
 	path = OrigamiPlot
 	url = https://github.com/cran/OrigamiPlot
-[submodule "pda"]
-	path = pda
-	url = https://github.com/cran/pda
